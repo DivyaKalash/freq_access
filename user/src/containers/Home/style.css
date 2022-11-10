@@ -1,0 +1,35 @@
+
+.ress {
+    background-color: rgba(49, 160, 47, 0.504);
+    border-radius: 28px;
+    height: 186px;
+    width: 41%;
+    /* margin-left: 106px; */
+    /* margin-right: 25px; */
+    margin: auto;
+    margin-top: 137px;
+    text-align: center;
+    padding-top: 23px;
+    color: rgb(3, 58, 9);
+    animation: validanime 10s forwards;
+    opacity: 1;
+}
+
+.validd{
+    background-color: rgba(181, 8, 63);
+    border-radius: 28px;
+    height: 93px;
+    width: 50%;
+    /* margin-left: 385px; */
+    margin: auto;
+    margin-top: 123px;
+    color: rgb(57, 9, 27);
+    text-align: center;
+    animation: validanime 10s forwards;
+    opacity: 1;
+
+}
+@keyframes validanime {
+	to {opacity: 0;}
+	
+}
